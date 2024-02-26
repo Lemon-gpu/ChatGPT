@@ -1,6 +1,5 @@
 var myHeaders = new Headers();
 
-
 function getResponse() {
     var input = document.getElementById('input');
     var output = document.getElementById('output');
