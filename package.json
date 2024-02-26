@@ -1,0 +1,15 @@
+{
+  "name": "chatgpt",
+  "version": "1.0.0",
+  "description": "F**K the Chat-jiang",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Kyiree SU",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.1.0"
+  }
+}
